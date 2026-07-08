@@ -85,11 +85,11 @@ A RESTful Library Management API built with **Laravel 12**, featuring:
 
 I'm open to mentorship, collaboration, and internship opportunities. Feel free to reach out!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish-Dheke1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish-Dheke2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-dheke-b862351a9)
 
 <div align="center">
 
-⭐️ From [Manish-Dheke1](https://github.com/Manish-Dheke1) — thanks for stopping by!
+⭐️ From [Manish-Dheke](https://github.com/Manish-Dheke1) — thanks for stopping by!
 
 </div>
