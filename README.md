@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring PHP Developer passionate about web development and currently diving deep into **Laravel**. I enjoy building clean, efficient, and scalable web applications while continuously learning modern development practices.
+I'm a Full Stack Laravel Developer passionate about building clean, efficient, and scalable web applications. I work across the entire stack — from database design and RESTful APIs to dynamic, reactive front ends — and I'm currently looking for an internship to grow further and contribute to real-world projects.
 
 - 🌱 Currently mastering **Laravel advanced features & RESTful APIs**
 - 💡 Focused on **deployment and optimization of PHP applications**
