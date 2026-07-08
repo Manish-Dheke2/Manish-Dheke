@@ -90,6 +90,6 @@ I'm open to mentorship, collaboration, and internship opportunities. Feel free t
 
 <div align="center">
 
-⭐️ From [Manish-Dheke](https://github.com/Manish-Dheke1) — thanks for stopping by!
+⭐️ From [Manish-Dheke](https://github.com/Manish-Dheke2) — thanks for stopping by!
 
 </div>
